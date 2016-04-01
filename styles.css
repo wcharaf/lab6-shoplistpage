@@ -1,0 +1,7 @@
+.fancy {
+  /*box-sizing: border-box;*/
+  margin: 10px;
+  font-size: 3em;
+  border: 4px dotted salmon;
+
+}
